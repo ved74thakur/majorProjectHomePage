@@ -16,15 +16,18 @@ const featuresData = [
     text: 'Angel investors are highly beneficial for startups who need access to funding in the early stages of growth.',
   },
   {
-    title: 'VED VED VED',
-    text: 'The one who wants PK',
+    title: 'Opportunites',
+    text: 'Better reach towards Investors and ease in funding.',
   },
 ];
 
 const Features = () => (
   <div className="gpt3__features section__padding" id="features">
     <div className="gpt3__features-heading">
-      <h1 className="gradient__text">The Future is Now and You Just Need to Realize It. Step into Future Today. & Make it Happen.</h1>
+      <h1 className="gradient__text">
+        The Future is Now and You Just Need to Realize It. Step into Future
+        Today. & Make it Happen.
+      </h1>
     </div>
     <div className="gpt3__features-container">
       {featuresData.map((item, index) => (
