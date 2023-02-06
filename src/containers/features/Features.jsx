@@ -17,7 +17,7 @@ const featuresData = [
   },
   {
     title: 'VED VED VED',
-    text: 'Really boy law county she unable her sister. Feet you off its like like six. Among sex are leave law built now. In built table in an rapid blush..',
+    text: 'The one who wants PK',
   },
 ];
 
