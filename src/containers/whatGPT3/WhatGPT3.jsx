@@ -5,7 +5,7 @@ import './whatGPT3.css';
 const WhatGPT3 = () => (
   <div className="gpt3__whatgpt3 section__margin" id="wgpt3">
     <div className="gpt3__whatgpt3-feature">
-      <Feature title="How GrowthCap works" text="To increase the number of successful startups in the world." />
+      <Feature title="How GrowthCap works" text="Our role goes far beyond providing financial resources to the founders we pick. We actively support our portfolio companies and give them access to leading software and community that help them get an edge during their journey. With a high number of angel investors to select from, any type of business can seek funding through this investment group." />
     </div>
     <div className="gpt3__whatgpt3-heading">
       <h1 className="gradient__text">The possibilities are beyond your imagination</h1>
