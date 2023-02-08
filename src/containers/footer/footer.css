@@ -22,7 +22,7 @@
   line-height: 75px;
 }
 
-.gpt3__footer-btn {
+/* .gpt3__footer-btn {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -33,14 +33,38 @@
 
   margin-bottom: 10rem;
   cursor: pointer;
+} */
+
+.gpt3__footer-btn {
+  padding: 0.5rem 1rem;
+  color: #fff;
+  background: #eeeceb;
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 25px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  border-radius: 5px;
 }
 
 .gpt3__footer-btn p {
-  font-size: 18px;
+  /* font-size: 18px;
   font-family: var(--font-family);
   line-height: 21px;
   color: #120f0f;
-  word-spacing: 2px;
+  word-spacing: 2px; */
+
+  color: #969696;
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 25px;
+  text-transform: capitalize;
+
+  margin: 0 1rem;
+  cursor: pointer;
 }
 
 .gpt3__footer-links {

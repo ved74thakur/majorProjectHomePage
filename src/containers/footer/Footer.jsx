@@ -1,4 +1,5 @@
 import React from 'react';
+// import { Link } from 'react-router-dom';
 import gpt3Logo from '../../logo.svg';
 import './footer.css';
 
@@ -9,7 +10,7 @@ const Footer = () => (
     </div>
 
     <div className="gpt3__footer-btn">
-      <p>Join us </p>
+      <button type="submit">Join Us</button>
     </div>
 
     <div className="gpt3__footer-links">
