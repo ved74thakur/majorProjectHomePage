@@ -17,7 +17,7 @@ const featuresData = [
   },
   {
     title: 'Opportunites',
-    text: 'Better reach towards Investors and ease in funding.',
+    text: 'We actively support our portfolio companies and give them access to leading software and community that help them get an edge during their journey',
   },
 ];
 
